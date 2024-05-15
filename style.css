@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+    flex-flow: column;
+
+}
+
+.one h1{
+    margin-bottom: 20px; 
+    text-decoration: underline solid 3px aqua; 
+}
+
+.one p{
+
+  height: 50px; 
+  border: solid black 2px; 
+  width: 90%;
+  text-align: center;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 8px 8px 8.7px black;
+}
+button{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
